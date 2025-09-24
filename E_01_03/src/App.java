@@ -1,6 +1,6 @@
 public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.printf("%-10s %-10s %n", "Computer", "Ordenador" );
+	public static void main(String[] args) throws Exception {
+		System.out.printf("%-10s %-10s %n", "Computer", "Ordenador" );
 		System.out.printf("%-10s %-10s %n", "Student", "Alumno/a");
 		System.out.printf("%-10s %-10s %n", "Cat", "Gato");
 		System.out.printf("%-10s %-10s %n", "Penguin", "Pingüino");
